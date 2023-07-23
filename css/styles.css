@@ -839,11 +839,13 @@ a {
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
   stroke-width: 1px;
+  color: #212121;
 }
 
 .svg-close-button {
   width: 18px;
   height: 18px;
+  color: #212121;
 }
 
 .close-button:focus,
